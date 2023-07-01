@@ -3,13 +3,48 @@
 
 <head>
   <title>Ads_by_using_Face_detection</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+    }
+
+    h1, h2 {
+      color: #ff00ff;
+      text-align: center;
+    }
+
+    p {
+      color: #00ffff;
+    }
+
+    ul {
+      list-style-type: square;
+      color: #00ff00;
+    }
+
+    a {
+      color: #ff00ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #ffff00;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 
 <body>
 
   <h1>Ads_by_using_Face_detection</h1>
 
-  <p>This project contains a Winforms application for desktop and a Python script for playing ads and detecting age and gender.</p>
+  <p>This project contains a futuristic Winforms application for desktop and a Python script for playing ads and detecting age and gender.</p>
 
   <h2>Additional Python Libraries Required:</h2>
   <ul>
@@ -73,5 +108,3 @@
 
 
 </html>
-
-
