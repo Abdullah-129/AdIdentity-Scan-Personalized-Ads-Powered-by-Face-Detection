@@ -67,7 +67,7 @@
   <h2>For Script:</h2>
   <h1>Visit:</h1>
   <p>[website link]</p>
-  <img src="https://ibb.co/QrvhPvL">
+  <a href="https://ibb.co/QrvhPvL"><img src="https://i.ibb.co/72tBntP/Screenshot-2023-06-25-021013.png" alt="Screenshot-2023-06-25-021013" border="0"></a>
 
 </body>
 
